@@ -13,8 +13,26 @@ $x=34;
 $y=356.78;
 $z=$x+$y;
 echo "La suma es $x + $y = $z <br>";
-echo "La resta es $x -- $y = $z <br>";
+echo "<br>";
+$x=34;
+$y=356.78;
+$z=$x-$y;
+echo "La resta es $x - $y = $z <br>";
+echo "<br>";
+$x=34;
+$y=356.78;
+$z=$x/$y;
 echo "La division es $x / $y = $z <br>";
+echo "<br>";
+$x=34;
+$y=356.78;
+$z=$x*$y;
+echo "multiplicacion es $x * $y = $z <br>";
+echo "<br>";
+$x=34;
+$y=12;
+$z=$x^$y;
+echo "la exponenciacion es $x ^ $y = $z <br>";
 
 ?>
 
